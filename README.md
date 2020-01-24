@@ -1,2 +1,2 @@
 # demo-app
-Demo application for testing purposes.
+This is a simple demo app for git testing purposes.
