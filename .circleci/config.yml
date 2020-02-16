@@ -9,3 +9,4 @@ jobs:
       - checkout
       - run: npm install -q
       - snyk/scan
+        - token-variable: API_Token
