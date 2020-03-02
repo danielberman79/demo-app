@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "qs": "0.0.8",
-    "node-uuid": "1.4.6"
+    "node-uuid": "1.4.8"
   }
 }
